@@ -21,7 +21,6 @@
  -SculptGL
  -ZBrushCoreMini</pre>
  <p> More support will be added soon.. </p>
- <br>
  
 <h2> Known problems</h2>
 <pre>
