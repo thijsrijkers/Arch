@@ -1,7 +1,21 @@
  <p align="center"><img src="https://i.imgur.com/Y6Y4AVI.png" width="220" height="200"> </p>
 <h1 align="center"> Arch Graphic Engine </h1>
+<br>
 <p align="center">Arch is a 3D graphic engine that uses console based application functionality that in turn can be used to created 3D projects</p>
 <br>
+<h2> Usage</h2>
+
+<p>To use Arch you need to follow the steps of installation. Arch is intended to create 3D projects from scratch. To provide a greater user experience we intend to add object import and exports. This way we can provide flexible project files that can be used in other software. Our main target will first be Blender. We advise that Arch is used for personal projects because Arch is never intended to become a full on lifetime supported software package. We hope you can get some usage from Arch</p>
+
+<p><b> Disclaimer: Arch is still work in progress./b></p>
+<p align="center"><img src="https://media0.giphy.com/media/9SzUo97XRz8U5I9gUo/giphy.gif" width="480" height="288"> </p>
+
+<h2> Known problems</h2>
+<pre>
+ -Arch has no interface yet
+ -The only way to create objects atm is through the editor
+ -There is no implementation of a import or export function
+ 
 <h2> Storyboard</h2>
   <pre>
   - Create project (✔)
