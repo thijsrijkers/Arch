@@ -15,12 +15,37 @@
  <p>Were working on the implementation of other 3D objects. But with the structure of the engine we can only give support to the following files: </p>
  <h3> .obj</h3>
  <p>.obj uses numeric values to determine the shapes of a object. The engine already uses a similar approach<. With this we can say that we support the following software packages that can produce .obj</p>
- <pre> -Blender
- -Cinema4D
- -Tinkercad
- -SculptGL
- -ZBrushCoreMini</pre>
- <p> More support will be added soon.. </p>
+ 
+<table>
+<thead>
+<tr>
+<th>Software</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.blender.org/">Blender</a></td>
+<td>minizip wrapper based on <a href="http://www.vilipetek.com/2013/11/22/zippingunzipping-files-in-c/" rel="nofollow">Vili Petek's work</a></td>
+</tr>
+<tr>
+<td><a href="https://www.maxon.net/en/cinema-4d">Cinema4D</a></td>
+<td>Test Framework</td>
+</tr>
+<tr>
+<td><a href="https://www.tinkercad.com/">Tinkercad</a></td>
+<td>Dynamic Libs wrapper</td>
+</tr>
+<tr>
+<td><a href="https://stephaneginier.com/sculptgl/">SculptGL</a></td>
+<td>Formatting library</td>
+</tr>
+<tr>
+<td><a href="https://zbrushcore.com/mini/">ZBrushCoreMini</a></td>
+<td>C++ binding library to Lua</td>
+</tr>
+</tbody>
+</table>
  
 <h2> Known problems</h2>
 <pre>
