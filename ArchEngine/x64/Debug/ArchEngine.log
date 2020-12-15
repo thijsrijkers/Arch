@@ -1,0 +1,13 @@
+﻿  ArchEngine.cpp
+D:\Arch\ArchEngine\consoleEngine.h(758,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Arch\ArchEngine\consoleEngine.h(953,57): warning C4474: 'swprintf_s' : too many arguments passed for format string
+D:\Arch\ArchEngine\consoleEngine.h(953,57): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+D:\Arch\ArchEngine\consoleEngine.h(1098,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Arch\ArchEngine\consoleEngine.h(1195,1): warning C4312: 'type cast': conversion from 'DWORD' to 'Engine *' of greater size
+D:\Arch\ArchEngine\ArchEngine.cpp(206,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Arch\ArchEngine\ArchEngine.cpp(206,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Arch\ArchEngine\ArchEngine.cpp(205,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Arch\ArchEngine\ArchEngine.cpp(205,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Arch\ArchEngine\ArchEngine.cpp(204,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Arch\ArchEngine\ArchEngine.cpp(204,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ArchEngine.vcxproj -> D:\Arch\ArchEngine\x64\Debug\ArchEngine.exe
