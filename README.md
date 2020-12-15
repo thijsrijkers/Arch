@@ -23,15 +23,6 @@
   - Create Axis manipulation
   - Create interface arround output engine
   - Create more storyboard points</pre>
-
-<h2> Installation</h2>
-  <h3> Arch</h3>
-  <ul>
-   <li>You need the most up to date Visual Studio: https://visualstudio.microsoft.com/downloads/</li>
-   <li>Run the project in editor</li>
-  </ul>
-  <p> If Arch says there is a error, than you miss the game development package for Visual Studio</p>
- <br>
   
 <h2> Building</h2>
 To build Arch you need:<br>
