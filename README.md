@@ -1,5 +1,5 @@
  <p align="center"><img src="https://i.imgur.com/Y6Y4AVI.png" width="220" height="200"> </p>
-<h1 align="center"> Arch3D Graphic Engine </h1>
+<h1 align="center"> Arch Graphic Engine </h1>
 <br>
 <p align="center">Arch3D is a 3D graphic engine that can be used to created 3D projects</p>
 <br>
@@ -17,6 +17,7 @@
    <li>You need the most up to date Visual Studio: https://visualstudio.microsoft.com/downloads/</li>
    <li>Run the project in editor</li>
   <p> If Arch says there is a error, than you miss the game development package for Visual Studio</p>
+ <br>
   
 <h2> Building</h2>
 To build Arch you need:
