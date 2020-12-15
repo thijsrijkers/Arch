@@ -1,7 +1,7 @@
  <p align="center"><img src="https://i.imgur.com/Y6Y4AVI.png" width="220" height="200"> </p>
 <h1 align="center"> Arch Graphic Engine </h1>
 <br>
-<p align="center">Arch3D is a 3D graphic engine that can be used to created 3D projects</p>
+<p align="center">Arch is a 3D graphic engine that uses console based application functionality that can be used to created 3D projects</p>
 <br>
 <h2> Storyboard</h2>
   <pre>
