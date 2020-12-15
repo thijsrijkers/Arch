@@ -21,6 +21,6 @@
  <br>
   
 <h2> Building</h2>
-To build Arch you need:
+To build Arch you need:<br>
 - atleast Visual Studio 2019
 
