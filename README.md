@@ -15,8 +15,7 @@
  <p>Were working on the implementation of other 3D objects. But with the structure of the engine we can only give support to the following files: </p>
  <h3> .obj</h3>
  <p>.obj uses numeric values to determine the shapes of a object. The engine already uses a similar approach<. With this we can say that we support the following software packages that can produce .obj</p>
- <pre> 
-  -Blender
+ <pre> -Blender
   -Cinema4D
   -Tinkercad
   -SculptGL
