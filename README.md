@@ -26,23 +26,23 @@
 <tbody>
 <tr>
 <td><a href="https://www.blender.org/">Blender</a></td>
-<td>minizip wrapper based on <a href="http://www.vilipetek.com/2013/11/22/zippingunzipping-files-in-c/" rel="nofollow">Vili Petek's work</a></td>
+<td>Blender is one of the most used 3D software for practitioners</td>
 </tr>
 <tr>
 <td><a href="https://www.maxon.net/en/cinema-4d">Cinema4D</a></td>
-<td>Test Framework</td>
+<td>Its my own personal favorite</td>
 </tr>
 <tr>
 <td><a href="https://www.tinkercad.com/">Tinkercad</a></td>
-<td>Dynamic Libs wrapper</td>
+<td>Popular for its functionality with 3D printing</td>
 </tr>
 <tr>
 <td><a href="https://stephaneginier.com/sculptgl/">SculptGL</a></td>
-<td>Formatting library</td>
+<td>Easy to access because you can use it in the browser</td>
 </tr>
 <tr>
 <td><a href="https://zbrushcore.com/mini/">ZBrushCoreMini</a></td>
-<td>C++ binding library to Lua</td>
+<td>Chosen because zBrush is very popular with artist</td>
 </tr>
 </tbody>
 </table>
