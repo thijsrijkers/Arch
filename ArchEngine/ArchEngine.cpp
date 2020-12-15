@@ -139,13 +139,17 @@ public:
 		matProj.m[2][3] = 1.0f;
 		matProj.m[3][3] = 0.0f;
 
+		return true;
+	}
+
+	bool OnUserUpdate(float fElapsedTime) override
+	{
 		// Clear Screen
 		Fill(0, 0, ScreenWidth(), ScreenHeight(), PIXEL_SOLID, FG_BLACK);
 
 		// Set up rotation matrices
 		mat4x4 matRotZ, matRotX;
-
-		//fTheta += 1.0f * fElapsedTime;
+		fTheta += 1.0f * fElapsedTime;
 
 		// Rotation Z
 		matRotZ.m[0][0] = cosf(fTheta);
@@ -207,13 +211,6 @@ public:
 				PIXEL_SOLID, FG_WHITE);
 
 		}
-
-		return true;
-	}
-
-	bool OnUserUpdate(float fElapsedTime) override
-	{
-		//fTheta += 1.0f * fElapsedTime;
 		return true;
 	}
 
