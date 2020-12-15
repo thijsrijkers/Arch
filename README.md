@@ -9,7 +9,7 @@
 <p>To use Arch you need to follow the steps of installation. Arch is intended to create 3D projects from scratch. To provide a greater user experience we intend to add object import and exports. This way we can provide flexible project files that can be used in other software. Our main target will first be Blender. We advise that Arch is used for personal projects because Arch is never intended to become a full on lifetime supported software package. We hope you can get some usage from Arch</p>
 
 <p><b> Disclaimer: Arch is still work in progress.</b></p>
-<p align="center"><img src="https://media0.giphy.com/media/9SzUo97XRz8U5I9gUo/giphy.gif" width="480" height="288"> </p>
+<p align="center"><img src="https://media4.giphy.com/media/Gq5i35cquAzaRKIufn/giphy.gif" width="480" height="278"> </p>
 
 <h2> Known problems</h2>
 <pre>
