@@ -16,10 +16,10 @@
  <h3> .obj</h3>
  <p>.obj uses numeric values to determine the shapes of a object. The engine already uses a similar approach<. With this we can say that we support the following software packages that can produce .obj</p>
  <pre> -Blender
-  -Cinema4D
-  -Tinkercad
-  -SculptGL
-  -ZBrushCoreMini</pre>
+ -Cinema4D
+ -Tinkercad
+ -SculptGL
+ -ZBrushCoreMini</pre>
  <p> More support will be added soon.. </p>
  <br>
  
