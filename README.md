@@ -14,7 +14,7 @@
 <h2> Supported</h2>
  <p>Were working on the implementation of other 3D objects. But with the structure of the engine we can only give support to the following files: </p>
  <h3> .obj</h3>
- <p>Obj files uses numeric values to determine the shapes of a object. The engine already uses a similar approach. With this we can say that we support the following software packages that can produce obj files:</p>
+ <p>Obj files uses numeric values to determine the shapes of a object. The engine already uses a similar approach. With this we can say that we support the following software packages that can produce obj files that are also have been tested:</p>
  
 <table>
 <thead>
