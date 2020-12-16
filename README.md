@@ -56,6 +56,7 @@
 <h2> Storyboard</h2>
   <pre>
   - Create project (✔)
+  - Create the functionality of importing 3D objects (✔)
   - Create multiple objects
   - Create Axis manipulation
   - Create interface arround output engine
